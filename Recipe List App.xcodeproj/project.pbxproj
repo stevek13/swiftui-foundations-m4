@@ -17,6 +17,7 @@
 		20D6A2C927F705EA00F9333F /* RecipeModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20D6A2C827F705EA00F9333F /* RecipeModel.swift */; };
 		20D6A2CB27F707AE00F9333F /* DataService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20D6A2CA27F707AE00F9333F /* DataService.swift */; };
 		20D6A2E727F7694500F9333F /* RecipeDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20D6A2E627F7694500F9333F /* RecipeDetailView.swift */; };
+		20E5CAD827FDD513000C097A /* RecipeFeatureView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20E5CAD727FDD513000C097A /* RecipeFeatureView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,6 +32,7 @@
 		20D6A2C827F705EA00F9333F /* RecipeModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeModel.swift; sourceTree = "<group>"; };
 		20D6A2CA27F707AE00F9333F /* DataService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataService.swift; sourceTree = "<group>"; };
 		20D6A2E627F7694500F9333F /* RecipeDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeDetailView.swift; sourceTree = "<group>"; };
+		20E5CAD727FDD513000C097A /* RecipeFeatureView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeFeatureView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -87,6 +89,7 @@
 			isa = PBXGroup;
 			children = (
 				20C2834727FB999E007F5AF9 /* RecipeTabView.swift */,
+				20E5CAD727FDD513000C097A /* RecipeFeatureView.swift */,
 				20D6A2B327F702EA00F9333F /* RecipeListView.swift */,
 				20D6A2E627F7694500F9333F /* RecipeDetailView.swift */,
 			);
@@ -197,6 +200,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				20D6A2C727F704B300F9333F /* Recipe.swift in Sources */,
+				20E5CAD827FDD513000C097A /* RecipeFeatureView.swift in Sources */,
 				20D6A2E727F7694500F9333F /* RecipeDetailView.swift in Sources */,
 				20D6A2B427F702EA00F9333F /* RecipeListView.swift in Sources */,
 				20D6A2C927F705EA00F9333F /* RecipeModel.swift in Sources */,
