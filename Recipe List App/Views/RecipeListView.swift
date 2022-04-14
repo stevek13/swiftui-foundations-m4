@@ -16,10 +16,8 @@ struct RecipeListView: View {
         
         NavigationView {
             VStack (alignment: .leading){
-                Text("All Recipes")
-                    .bold()
-                    .padding(.top, 40)
-                    .font(.largeTitle)
+                
+                
                 ScrollView {
                     LazyVStack(alignment: .leading) {
                         ForEach(model.recipes) { r in
